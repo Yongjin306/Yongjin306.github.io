@@ -15,11 +15,11 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "yongjin deeplearning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Yongjin306"
 description              : "An amazing website."
 url                      : "https://yongjin306.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   :true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
